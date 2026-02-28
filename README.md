@@ -8,7 +8,7 @@ Soy **Ingeniera de Sistemas Junior** con enfoque en el **desarrollo web**, la **
 
 📚 Siempre busco estar en constante aprendizaje, explorando nuevas tecnologías y metodologías para continuar creciendo profesionalmente. 
 
-🌱 Actualmente estoy fortaleciendo mis conocimientos en: **Python, SQL, Power BI, Ciberseguridad**.  
+🌱 Actualmente estoy fortaleciendo mis conocimientos en: **Python, SQL, Power BI, Desarrollo web**.  
 🤖 Culminé un **Diplomado en Machine Learning con Python**.  
 🏥 He trabajado en proyectos académicos como:
   - **Base de datos hospitalaria (SQL)**  
@@ -29,6 +29,7 @@ Soy **Ingeniera de Sistemas Junior** con enfoque en el **desarrollo web**, la **
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
 </span>
 
 <h4> Bases de datos: <h4>
